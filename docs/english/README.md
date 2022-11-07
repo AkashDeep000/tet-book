@@ -1,0 +1,14 @@
+- English Pedagogy
+
+  - [Language Skills](english/Language%20Skills.md.md)
+  - [Teaching Learning Materials](english/Teaching%20Learning%20Materials.md)
+  - [Role of Grammar in Learning](english/Role%20of%20Grammar%20in%20Learning.md)
+  - [Challenges of Teaching & Learning Styles In A Diverse Classroom](english/Challenges%20of%20Teaching%20&%20Learning%20Styles%20In%20A%20Diverse%20Classroom.md.md)
+  - [Evaluation of Comprehension](english/Evaluation%20of%20Comprehension.md)
+  - [Methods of Teaching Grammar](english/Methods%20of%20Teaching%20Grammar.md)
+  - [Learning Disorders In the English Language](english/Learning%20Disorders%20In%20the%20English%20Language.md)
+  - [Remedial Teaching In the English Language](english/Remedial%20Teaching%20In%20the%20English%20Language.md)
+  - [Role of Listening](english/Role%20of%20Listening.md)
+  - [Role of Speaking](english/Role%20of%20Speaking.md)
+  - [Principles of English Language Teaching](english/Principles%20of%20English%20Language%20Teaching.md)
+  - [Learning And Acquisition](english/Learning%20And%20Acquisition.md)

@@ -1,4 +1,4 @@
-- [**Math Pedagogy**](math/README.md)
+- Math Pedagogy
 
   - [AIMS AND OBJECTIVES OF TEACHING MATHEMATICS](math/AIMS%20AND%20OBJECTIVES%20OF%20TEACHING%20MATHEMATICS.md)
   - [Place of Mathematics in Curriculum](math/Place%20of%20Mathematics%20in%20Curriculum.md)
@@ -13,19 +13,3 @@
   - [Error Analysis and Related Aspects of Learning and Teaching](math/Error%20Analysis%20and%20Related%20Aspects%20of%20Learning%20and%20Teaching.md)
   - [Evaluation and Assessment in Mathematics](math/Evaluation%20and%20Assessment%20in%20Mathematics.md)
   - [ICT Need, Importance and Use in Learning of Mathematics](math/ICT%20Need,%20Importance%20and%20Use%20in%20Learning%20of%20Mathematics.md)
-
-
-- [**English Pedagogy**](english/README.md)
-
-  - [Language Skills](english/Language%20Skills.md)
-  - [Teaching Learning Materials](english/Teaching%20Learning%20Materials.md)
-  - [Role of Grammar in Learning](english/Role%20of%20Grammar%20in%20Learning.md)
-  - [Challenges of Teaching & Learning Styles In A Diverse Classroom](english/Challenges%20of%20Teaching%20&%20Learning%20Styles%20In%20A%20Diverse%20Classroom.md)
-  - [Evaluation of Comprehension](english/Evaluation%20of%20Comprehension.md)
-  - [Methods of Teaching Grammar](english/Methods%20of%20Teaching%20Grammar.md)
-  - [Learning Disorders In the English Language](english/Learning%20Disorders%20In%20the%20English%20Language.md)
-  - [Remedial Teaching In the English Language](english/Remedial%20Teaching%20In%20the%20English%20Language.md)
-  - [Role of Listening](english/Role%20of%20Listening.md)
-  - [Role of Speaking](english/Role%20of%20Speaking.md)
-  - [Principles of English Language Teaching](english/Principles%20of%20English%20Language%20Teaching.md)
-  - [Learning And Acquisition](english/Learning%20And%20Acquisition.md)
